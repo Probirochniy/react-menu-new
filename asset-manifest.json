@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-menu-new/static/css/main.d290849c.css",
-    "main.js": "/react-menu-new/static/js/main.aff662c8.js",
+    "main.css": "/react-menu-new/static/css/main.98a33808.css",
+    "main.js": "/react-menu-new/static/js/main.5c28f56e.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-new/static/js/787.dd8d5867.chunk.js",
     "static/media/омлет с лососем.jpg": "/react-menu-new/static/media/омлет с лососем.5f5ae68935e11da0c1e9.jpg",
     "static/media/венские вафли.jpg": "/react-menu-new/static/media/венские вафли.95d3522f968e7589dc6c.jpg",
@@ -12,12 +12,12 @@
     "static/media/рисовая каша .jpg": "/react-menu-new/static/media/рисовая каша .38c20798f5115ea8be6f.jpg",
     "static/media/сырник .jpg": "/react-menu-new/static/media/сырник .894b2523f8d34739e58b.jpg",
     "index.html": "/react-menu-new/index.html",
-    "main.d290849c.css.map": "/react-menu-new/static/css/main.d290849c.css.map",
-    "main.aff662c8.js.map": "/react-menu-new/static/js/main.aff662c8.js.map",
+    "main.98a33808.css.map": "/react-menu-new/static/css/main.98a33808.css.map",
+    "main.5c28f56e.js.map": "/react-menu-new/static/js/main.5c28f56e.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-new/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d290849c.css",
-    "static/js/main.aff662c8.js"
+    "static/css/main.98a33808.css",
+    "static/js/main.5c28f56e.js"
   ]
 }
