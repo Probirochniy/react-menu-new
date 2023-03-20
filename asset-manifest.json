@@ -1,17 +1,23 @@
 {
   "files": {
     "main.css": "/react-menu-new/static/css/main.5c38cb31.css",
-    "main.js": "/react-menu-new/static/js/main.12ef351e.js",
+    "main.js": "/react-menu-new/static/js/main.9aaa0d00.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-new/static/js/787.dd8d5867.chunk.js",
+    "static/media/омлет с лососем.jpg": "/react-menu-new/static/media/омлет с лососем.5f5ae68935e11da0c1e9.jpg",
     "static/media/венские вафли.jpg": "/react-menu-new/static/media/венские вафли.95d3522f968e7589dc6c.jpg",
+    "static/media/драники с лососем .jpg": "/react-menu-new/static/media/драники с лососем .fffc060060e2d229141e.jpg",
     "static/media/Shakshuka.jpg": "/react-menu-new/static/media/Shakshuka.38416b6012c231ee5597.jpg",
+    "static/media/английский завтрак.jpg": "/react-menu-new/static/media/английский завтрак.03c2b0818d03dc0f5642.jpg",
+    "static/media/блинчики.jpg": "/react-menu-new/static/media/блинчики.778298f281488ed3f7f4.jpg",
+    "static/media/рисовая каша .jpg": "/react-menu-new/static/media/рисовая каша .38c20798f5115ea8be6f.jpg",
+    "static/media/сырник .jpg": "/react-menu-new/static/media/сырник .894b2523f8d34739e58b.jpg",
     "index.html": "/react-menu-new/index.html",
     "main.5c38cb31.css.map": "/react-menu-new/static/css/main.5c38cb31.css.map",
-    "main.12ef351e.js.map": "/react-menu-new/static/js/main.12ef351e.js.map",
+    "main.9aaa0d00.js.map": "/react-menu-new/static/js/main.9aaa0d00.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-new/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c38cb31.css",
-    "static/js/main.12ef351e.js"
+    "static/js/main.9aaa0d00.js"
   ]
 }
