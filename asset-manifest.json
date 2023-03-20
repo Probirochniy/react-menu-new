@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-menu-new/static/css/main.5c38cb31.css",
-    "main.js": "/react-menu-new/static/js/main.e2fc5b0e.js",
+    "main.js": "/react-menu-new/static/js/main.7ee49c3b.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-new/static/js/787.dd8d5867.chunk.js",
     "static/media/венские вафли.jpg": "/react-menu-new/static/media/венские вафли.95d3522f968e7589dc6c.jpg",
     "static/media/Shakshuka.jpg": "/react-menu-new/static/media/Shakshuka.38416b6012c231ee5597.jpg",
     "index.html": "/react-menu-new/index.html",
     "main.5c38cb31.css.map": "/react-menu-new/static/css/main.5c38cb31.css.map",
-    "main.e2fc5b0e.js.map": "/react-menu-new/static/js/main.e2fc5b0e.js.map",
+    "main.7ee49c3b.js.map": "/react-menu-new/static/js/main.7ee49c3b.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-new/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c38cb31.css",
-    "static/js/main.e2fc5b0e.js"
+    "static/js/main.7ee49c3b.js"
   ]
 }
