@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-menu-new/static/css/main.ec9b3ea1.css",
-    "main.js": "/react-menu-new/static/js/main.25cae70f.js",
+    "main.js": "/react-menu-new/static/js/main.29f89dc1.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-new/static/js/787.dd8d5867.chunk.js",
     "static/media/омлет с лососем.jpg": "/react-menu-new/static/media/омлет с лососем.5f5ae68935e11da0c1e9.jpg",
     "static/media/венские вафли.jpg": "/react-menu-new/static/media/венские вафли.95d3522f968e7589dc6c.jpg",
@@ -14,11 +14,11 @@
     "static/media/нисуаз.jpg": "/react-menu-new/static/media/нисуаз.ad2a68b4c9942ce10284.jpg",
     "index.html": "/react-menu-new/index.html",
     "main.ec9b3ea1.css.map": "/react-menu-new/static/css/main.ec9b3ea1.css.map",
-    "main.25cae70f.js.map": "/react-menu-new/static/js/main.25cae70f.js.map",
+    "main.29f89dc1.js.map": "/react-menu-new/static/js/main.29f89dc1.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-new/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec9b3ea1.css",
-    "static/js/main.25cae70f.js"
+    "static/js/main.29f89dc1.js"
   ]
 }
