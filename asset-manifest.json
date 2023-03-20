@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-menu-new/static/css/main.be793151.css",
+    "main.css": "/react-menu-new/static/css/main.562400ef.css",
     "main.js": "/react-menu-new/static/js/main.5c28f56e.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-new/static/js/787.dd8d5867.chunk.js",
     "static/media/омлет с лососем.jpg": "/react-menu-new/static/media/омлет с лососем.5f5ae68935e11da0c1e9.jpg",
@@ -12,12 +12,12 @@
     "static/media/рисовая каша .jpg": "/react-menu-new/static/media/рисовая каша .38c20798f5115ea8be6f.jpg",
     "static/media/сырник .jpg": "/react-menu-new/static/media/сырник .894b2523f8d34739e58b.jpg",
     "index.html": "/react-menu-new/index.html",
-    "main.be793151.css.map": "/react-menu-new/static/css/main.be793151.css.map",
+    "main.562400ef.css.map": "/react-menu-new/static/css/main.562400ef.css.map",
     "main.5c28f56e.js.map": "/react-menu-new/static/js/main.5c28f56e.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-new/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be793151.css",
+    "static/css/main.562400ef.css",
     "static/js/main.5c28f56e.js"
   ]
 }
