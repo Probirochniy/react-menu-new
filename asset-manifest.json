@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-menu-new/static/css/main.6f66c609.css",
-    "main.js": "/react-menu-new/static/js/main.cf8c7c1a.js",
+    "main.js": "/react-menu-new/static/js/main.d8d9e9fa.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-new/static/js/787.dd8d5867.chunk.js",
     "static/media/пряный салат из рукколы с креветками.jpg": "/react-menu-new/static/media/пряный салат из рукколы с креветками.bde7de6a9e8bfb007746.jpg",
     "static/media/американо.jpg": "/react-menu-new/static/media/американо.4e52669f5385a7530c02.jpg",
@@ -44,17 +44,19 @@
     "static/media/1 2.jpg": "/react-menu-new/static/media/1 2.445e58486bfe965e7175.jpg",
     "static/media/3.jpg": "/react-menu-new/static/media/3.1a2150172ebe575a18ac.jpg",
     "static/media/15.jpg": "/react-menu-new/static/media/15.659f2c78f2569ae2bec2.jpg",
+    "static/media/3 2.jpg": "/react-menu-new/static/media/3 2.eaec2adf7abaf924ae67.jpg",
     "static/media/салат с кальмаром.jpg": "/react-menu-new/static/media/салат с кальмаром.4e5fb18c736f31e9444c.jpg",
     "static/media/солянка .jpg": "/react-menu-new/static/media/солянка .ee1206b1aa11ab3ee8c7.jpg",
     "static/media/французский завтрак .jpg": "/react-menu-new/static/media/французский завтрак .603218e0dc62b15e4c04.jpg",
+    "static/media/2.jpg": "/react-menu-new/static/media/2.c6186e01b567d5403058.jpg",
     "static/media/гречка с яйцом пашот.jpg": "/react-menu-new/static/media/гречка с яйцом пашот.5b05d00605485fc088bc.jpg",
     "index.html": "/react-menu-new/index.html",
     "main.6f66c609.css.map": "/react-menu-new/static/css/main.6f66c609.css.map",
-    "main.cf8c7c1a.js.map": "/react-menu-new/static/js/main.cf8c7c1a.js.map",
+    "main.d8d9e9fa.js.map": "/react-menu-new/static/js/main.d8d9e9fa.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-new/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f66c609.css",
-    "static/js/main.cf8c7c1a.js"
+    "static/js/main.d8d9e9fa.js"
   ]
 }
