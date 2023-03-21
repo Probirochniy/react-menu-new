@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-menu-new/static/css/main.ec9b3ea1.css",
-    "main.js": "/react-menu-new/static/js/main.81c09065.js",
+    "main.js": "/react-menu-new/static/js/main.eae86b31.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-new/static/js/787.dd8d5867.chunk.js",
     "static/media/пряный салат из рукколы с креветками.jpg": "/react-menu-new/static/media/пряный салат из рукколы с креветками.bde7de6a9e8bfb007746.jpg",
     "static/media/круассан с лососем.jpg": "/react-menu-new/static/media/круассан с лососем.f221f81889c567e8176b.jpg",
@@ -36,11 +36,11 @@
     "static/media/гречка с яйцом пашот.jpg": "/react-menu-new/static/media/гречка с яйцом пашот.5b05d00605485fc088bc.jpg",
     "index.html": "/react-menu-new/index.html",
     "main.ec9b3ea1.css.map": "/react-menu-new/static/css/main.ec9b3ea1.css.map",
-    "main.81c09065.js.map": "/react-menu-new/static/js/main.81c09065.js.map",
+    "main.eae86b31.js.map": "/react-menu-new/static/js/main.eae86b31.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-new/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec9b3ea1.css",
-    "static/js/main.81c09065.js"
+    "static/js/main.eae86b31.js"
   ]
 }
