@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-menu-new/static/css/main.ec9b3ea1.css",
-    "main.js": "/react-menu-new/static/js/main.3c9d5a64.js",
+    "main.js": "/react-menu-new/static/js/main.81c09065.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-new/static/js/787.dd8d5867.chunk.js",
     "static/media/пряный салат из рукколы с креветками.jpg": "/react-menu-new/static/media/пряный салат из рукколы с креветками.bde7de6a9e8bfb007746.jpg",
     "static/media/круассан с лососем.jpg": "/react-menu-new/static/media/круассан с лососем.f221f81889c567e8176b.jpg",
@@ -21,8 +21,11 @@
     "static/media/сендвич с уткой .jpg": "/react-menu-new/static/media/сендвич с уткой .da8f4451bde75c392bb3.jpg",
     "static/media/классическая овсяная каша.jpg": "/react-menu-new/static/media/классическая овсяная каша.dbf543331e8e348a1829.jpg",
     "static/media/сендвич бриошь с котлеткой дорблю.jpg": "/react-menu-new/static/media/сендвич бриошь с котлеткой дорблю.ce27bda6eb989676367e.jpg",
+    "static/media/рийет из утки .jpg": "/react-menu-new/static/media/рийет из утки .55c361078a4d45c97007.jpg",
     "static/media/сендвич с лососем .jpg": "/react-menu-new/static/media/сендвич с лососем .dbc72a54aac3806588cb.jpg",
     "static/media/салат цезарь по скандинавск .jpg": "/react-menu-new/static/media/салат цезарь по скандинавск .b16b6eed5bc397d30693.jpg",
+    "static/media/лосось шеф посола.jpg": "/react-menu-new/static/media/лосось шеф посола.fdb0f1222e3cfab93804.jpg",
+    "static/media/тар тар из говядины .jpg": "/react-menu-new/static/media/тар тар из говядины .cd01dedcc2e317a3acca.jpg",
     "static/media/греческий_ц.jpg": "/react-menu-new/static/media/греческий_ц.771e6be4423dc867397e.jpg",
     "static/media/свежий салат с куриной котлетой дорблю.jpg": "/react-menu-new/static/media/свежий салат с куриной котлетой дорблю.f3853a9d2efcf43f1557.jpg",
     "static/media/оливье с лососем .jpg": "/react-menu-new/static/media/оливье с лососем .49fb55d2bb0b11be09c4.jpg",
@@ -33,11 +36,11 @@
     "static/media/гречка с яйцом пашот.jpg": "/react-menu-new/static/media/гречка с яйцом пашот.5b05d00605485fc088bc.jpg",
     "index.html": "/react-menu-new/index.html",
     "main.ec9b3ea1.css.map": "/react-menu-new/static/css/main.ec9b3ea1.css.map",
-    "main.3c9d5a64.js.map": "/react-menu-new/static/js/main.3c9d5a64.js.map",
+    "main.81c09065.js.map": "/react-menu-new/static/js/main.81c09065.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-new/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec9b3ea1.css",
-    "static/js/main.3c9d5a64.js"
+    "static/js/main.81c09065.js"
   ]
 }
