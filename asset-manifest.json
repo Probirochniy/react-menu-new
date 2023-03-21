@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-menu-new/static/css/main.ec9b3ea1.css",
-    "main.js": "/react-menu-new/static/js/main.9b626ce4.js",
+    "main.js": "/react-menu-new/static/js/main.62d5980f.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-new/static/js/787.dd8d5867.chunk.js",
     "static/media/пряный салат из рукколы с креветками.jpg": "/react-menu-new/static/media/пряный салат из рукколы с креветками.bde7de6a9e8bfb007746.jpg",
     "static/media/американо.jpg": "/react-menu-new/static/media/американо.4e52669f5385a7530c02.jpg",
@@ -10,6 +10,7 @@
     "static/media/латте.jpg": "/react-menu-new/static/media/латте.fda40801b7f82cfe6f9c.jpg",
     "static/media/круассан с лососем.jpg": "/react-menu-new/static/media/круассан с лососем.f221f81889c567e8176b.jpg",
     "static/media/круассан с куриным филе.jpg": "/react-menu-new/static/media/круассан с куриным филе.7b5e1b28734e3d5903d6.jpg",
+    "static/media/эстофадо.jpg": "/react-menu-new/static/media/эстофадо.a07feecabbf0af2e5330.jpg",
     "static/media/омлет с лососем.jpg": "/react-menu-new/static/media/омлет с лососем.5f5ae68935e11da0c1e9.jpg",
     "static/media/венские вафли.jpg": "/react-menu-new/static/media/венские вафли.95d3522f968e7589dc6c.jpg",
     "static/media/яичница глазунья с медальонами.jpg": "/react-menu-new/static/media/яичница глазунья с медальонами.385f9a072e9ba47c6bc4.jpg",
@@ -19,6 +20,7 @@
     "static/media/английский завтрак.jpg": "/react-menu-new/static/media/английский завтрак.03c2b0818d03dc0f5642.jpg",
     "static/media/блинчики.jpg": "/react-menu-new/static/media/блинчики.778298f281488ed3f7f4.jpg",
     "static/media/рисовая каша .jpg": "/react-menu-new/static/media/рисовая каша .38c20798f5115ea8be6f.jpg",
+    "static/media/том ям.jpg": "/react-menu-new/static/media/том ям.be8cf034ad0971d1eab8.jpg",
     "static/media/сырник .jpg": "/react-menu-new/static/media/сырник .894b2523f8d34739e58b.jpg",
     "static/media/драники со сметаной .jpg": "/react-menu-new/static/media/драники со сметаной .1a9a18205710f0662f75.jpg",
     "static/media/салат с ростбифом.jpg": "/react-menu-new/static/media/салат с ростбифом.585a48fc87c8da9c9116.jpg",
@@ -30,21 +32,25 @@
     "static/media/салат цезарь по скандинавск .jpg": "/react-menu-new/static/media/салат цезарь по скандинавск .b16b6eed5bc397d30693.jpg",
     "static/media/лосось шеф посола.jpg": "/react-menu-new/static/media/лосось шеф посола.fdb0f1222e3cfab93804.jpg",
     "static/media/тар тар из говядины .jpg": "/react-menu-new/static/media/тар тар из говядины .cd01dedcc2e317a3acca.jpg",
+    "static/media/борщ .jpg": "/react-menu-new/static/media/борщ .8bd2a978893077e57a24.jpg",
+    "static/media/сен жермен.jpg": "/react-menu-new/static/media/сен жермен.e803f7d9ea1f472fb159.jpg",
     "static/media/греческий_ц.jpg": "/react-menu-new/static/media/греческий_ц.771e6be4423dc867397e.jpg",
     "static/media/свежий салат с куриной котлетой дорблю.jpg": "/react-menu-new/static/media/свежий салат с куриной котлетой дорблю.f3853a9d2efcf43f1557.jpg",
+    "static/media/томатный крем суп.jpg": "/react-menu-new/static/media/томатный крем суп.690862f0496c9fc5207f.jpg",
     "static/media/оливье с лососем .jpg": "/react-menu-new/static/media/оливье с лососем .49fb55d2bb0b11be09c4.jpg",
     "static/media/нисуаз.jpg": "/react-menu-new/static/media/нисуаз.ad2a68b4c9942ce10284.jpg",
     "static/media/поке_с_лососем.jpg": "/react-menu-new/static/media/поке_с_лососем.0f37e1f8927e5f13bbff.jpg",
     "static/media/салат с кальмаром.jpg": "/react-menu-new/static/media/салат с кальмаром.4e5fb18c736f31e9444c.jpg",
+    "static/media/солянка .jpg": "/react-menu-new/static/media/солянка .ee1206b1aa11ab3ee8c7.jpg",
     "static/media/французский завтрак .jpg": "/react-menu-new/static/media/французский завтрак .603218e0dc62b15e4c04.jpg",
     "static/media/гречка с яйцом пашот.jpg": "/react-menu-new/static/media/гречка с яйцом пашот.5b05d00605485fc088bc.jpg",
     "index.html": "/react-menu-new/index.html",
     "main.ec9b3ea1.css.map": "/react-menu-new/static/css/main.ec9b3ea1.css.map",
-    "main.9b626ce4.js.map": "/react-menu-new/static/js/main.9b626ce4.js.map",
+    "main.62d5980f.js.map": "/react-menu-new/static/js/main.62d5980f.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-new/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec9b3ea1.css",
-    "static/js/main.9b626ce4.js"
+    "static/js/main.62d5980f.js"
   ]
 }
