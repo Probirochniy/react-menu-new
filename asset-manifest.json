@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-menu-new/static/css/main.f0803aa7.css",
-    "main.js": "/react-menu-new/static/js/main.6c211667.js",
+    "main.css": "/react-menu-new/static/css/main.4a17bd7d.css",
+    "main.js": "/react-menu-new/static/js/main.5f750e83.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-new/static/js/787.dd8d5867.chunk.js",
     "static/media/пряный салат из рукколы с креветками.jpg": "/react-menu-new/static/media/пряный салат из рукколы с креветками.bde7de6a9e8bfb007746.jpg",
     "static/media/американо.jpg": "/react-menu-new/static/media/американо.4e52669f5385a7530c02.jpg",
@@ -37,20 +37,24 @@
     "static/media/греческий_ц.jpg": "/react-menu-new/static/media/греческий_ц.771e6be4423dc867397e.jpg",
     "static/media/свежий салат с куриной котлетой дорблю.jpg": "/react-menu-new/static/media/свежий салат с куриной котлетой дорблю.f3853a9d2efcf43f1557.jpg",
     "static/media/томатный крем суп.jpg": "/react-menu-new/static/media/томатный крем суп.690862f0496c9fc5207f.jpg",
+    "static/media/5 3.jpg": "/react-menu-new/static/media/5 3.3243ee2798a20a02e450.jpg",
     "static/media/оливье с лососем .jpg": "/react-menu-new/static/media/оливье с лососем .49fb55d2bb0b11be09c4.jpg",
     "static/media/нисуаз.jpg": "/react-menu-new/static/media/нисуаз.ad2a68b4c9942ce10284.jpg",
     "static/media/поке_с_лососем.jpg": "/react-menu-new/static/media/поке_с_лососем.0f37e1f8927e5f13bbff.jpg",
+    "static/media/1 2.jpg": "/react-menu-new/static/media/1 2.445e58486bfe965e7175.jpg",
+    "static/media/3.jpg": "/react-menu-new/static/media/3.1a2150172ebe575a18ac.jpg",
+    "static/media/15.jpg": "/react-menu-new/static/media/15.659f2c78f2569ae2bec2.jpg",
     "static/media/салат с кальмаром.jpg": "/react-menu-new/static/media/салат с кальмаром.4e5fb18c736f31e9444c.jpg",
     "static/media/солянка .jpg": "/react-menu-new/static/media/солянка .ee1206b1aa11ab3ee8c7.jpg",
     "static/media/французский завтрак .jpg": "/react-menu-new/static/media/французский завтрак .603218e0dc62b15e4c04.jpg",
     "static/media/гречка с яйцом пашот.jpg": "/react-menu-new/static/media/гречка с яйцом пашот.5b05d00605485fc088bc.jpg",
     "index.html": "/react-menu-new/index.html",
-    "main.f0803aa7.css.map": "/react-menu-new/static/css/main.f0803aa7.css.map",
-    "main.6c211667.js.map": "/react-menu-new/static/js/main.6c211667.js.map",
+    "main.4a17bd7d.css.map": "/react-menu-new/static/css/main.4a17bd7d.css.map",
+    "main.5f750e83.js.map": "/react-menu-new/static/js/main.5f750e83.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-new/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0803aa7.css",
-    "static/js/main.6c211667.js"
+    "static/css/main.4a17bd7d.css",
+    "static/js/main.5f750e83.js"
   ]
 }
