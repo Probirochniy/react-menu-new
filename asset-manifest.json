@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-menu-new/static/css/main.b25b65d1.css",
-    "main.js": "/react-menu-new/static/js/main.fc47ef4a.js",
+    "main.css": "/react-menu-new/static/css/main.2ab16f09.css",
+    "main.js": "/react-menu-new/static/js/main.22810f71.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-new/static/js/787.dd8d5867.chunk.js",
     "static/media/пряный салат из рукколы с креветками.jpg": "/react-menu-new/static/media/пряный салат из рукколы с креветками.bde7de6a9e8bfb007746.jpg",
     "static/media/американо.jpg": "/react-menu-new/static/media/американо.4e52669f5385a7530c02.jpg",
@@ -55,12 +55,12 @@
     "static/media/гречка с яйцом пашот.jpg": "/react-menu-new/static/media/гречка с яйцом пашот.5b05d00605485fc088bc.jpg",
     "static/media/3081797.png": "/react-menu-new/static/media/3081797.b36ffd47d36a4da60031.png",
     "index.html": "/react-menu-new/index.html",
-    "main.b25b65d1.css.map": "/react-menu-new/static/css/main.b25b65d1.css.map",
-    "main.fc47ef4a.js.map": "/react-menu-new/static/js/main.fc47ef4a.js.map",
+    "main.2ab16f09.css.map": "/react-menu-new/static/css/main.2ab16f09.css.map",
+    "main.22810f71.js.map": "/react-menu-new/static/js/main.22810f71.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-new/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b25b65d1.css",
-    "static/js/main.fc47ef4a.js"
+    "static/css/main.2ab16f09.css",
+    "static/js/main.22810f71.js"
   ]
 }
