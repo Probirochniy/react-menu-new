@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-menu-new/static/css/main.25c3b802.css",
-    "main.js": "/react-menu-new/static/js/main.01d6e229.js",
+    "main.js": "/react-menu-new/static/js/main.0fa52e38.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-new/static/js/787.dd8d5867.chunk.js",
     "static/media/пряный салат из рукколы с креветками.jpg": "/react-menu-new/static/media/пряный салат из рукколы с креветками.5d6b27f89f9773d2743e.jpg",
     "static/media/американо.jpg": "/react-menu-new/static/media/американо.72e6ff9102f1417a6078.jpg",
@@ -53,15 +53,15 @@
     "static/media/французский завтрак .jpg": "/react-menu-new/static/media/французский завтрак .7401427d99410aa12ff4.jpg",
     "static/media/2.jpg": "/react-menu-new/static/media/2.7b76c12d43e95ec6b1b3.jpg",
     "static/media/гречка с яйцом пашот.jpg": "/react-menu-new/static/media/гречка с яйцом пашот.955c2d71818dcf958bcf.jpg",
-    "static/media/axios.cjs": "/react-menu-new/static/media/axios.33cfa09f5297bf2e21f8.cjs",
+    "static/media/axios.cjs": "/react-menu-new/static/media/axios.767cbb9196d492ec45d3.cjs",
     "static/media/3081797.png": "/react-menu-new/static/media/3081797.b36ffd47d36a4da60031.png",
     "index.html": "/react-menu-new/index.html",
     "main.25c3b802.css.map": "/react-menu-new/static/css/main.25c3b802.css.map",
-    "main.01d6e229.js.map": "/react-menu-new/static/js/main.01d6e229.js.map",
+    "main.0fa52e38.js.map": "/react-menu-new/static/js/main.0fa52e38.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-new/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25c3b802.css",
-    "static/js/main.01d6e229.js"
+    "static/js/main.0fa52e38.js"
   ]
 }
