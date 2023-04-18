@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-menu-new/static/css/main.6f56971d.css",
+    "main.css": "/react-menu-new/static/css/main.5249c59b.css",
     "main.js": "/react-menu-new/static/js/main.3a6a6e90.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-new/static/js/787.dd8d5867.chunk.js",
     "static/media/пряный салат из рукколы с креветками.jpg": "/react-menu-new/static/media/пряный салат из рукколы с креветками.5d6b27f89f9773d2743e.jpg",
@@ -56,12 +56,12 @@
     "static/media/thx_b.png": "/react-menu-new/static/media/thx_b.48857822b1b0964eeefd.png",
     "static/media/3081797.png": "/react-menu-new/static/media/3081797.b36ffd47d36a4da60031.png",
     "index.html": "/react-menu-new/index.html",
-    "main.6f56971d.css.map": "/react-menu-new/static/css/main.6f56971d.css.map",
+    "main.5249c59b.css.map": "/react-menu-new/static/css/main.5249c59b.css.map",
     "main.3a6a6e90.js.map": "/react-menu-new/static/js/main.3a6a6e90.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-new/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f56971d.css",
+    "static/css/main.5249c59b.css",
     "static/js/main.3a6a6e90.js"
   ]
 }
